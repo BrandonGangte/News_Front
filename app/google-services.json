@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728764203889",
+    "project_id": "news-front-192005"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728764203889:android:34cde331c8e7cb4a",
+        "android_client_info": {
+          "package_name": "com.studymate101.newsfront"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728764203889-c4oiq3uta76ieajl6bsev3qr3l8bs345.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "728764203889-9tnvdlh8jlld94mmc79il692adunf580.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studymate101.newsfront",
+            "certificate_hash": "f84e193575f030bde601d22d6ccbf198f6712736"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm18t0zyY1mUPKXo3YKnpKv47SRmOfI-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
